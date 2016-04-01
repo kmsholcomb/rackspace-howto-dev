@@ -10,7 +10,7 @@ product: multiple
 body_format: tinymce
 ---
 
-The Basics
+The basics
 ----------
 
 [Public Vs. Private
